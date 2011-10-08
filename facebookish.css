@@ -1,0 +1,100 @@
+/* Typography */
+
+
+body {
+	font-family: "lucida grande", tahoma, verdana, arial, sans-serif;
+}
+
+h1 {
+	color: #3b5998;
+	font-size: 14px;
+	line-height: 18px;
+}
+
+h4, h4 {
+
+	color: #3b5998;
+	font-size: 12px;
+	line-height: 18px;
+}
+
+.timeAgo {
+	color: #808080;
+	font-size: 11px;
+	line-height: 14px;
+}
+
+.pText {
+	color: #333333;
+	font-size: 12px;
+	line-height: 18px;
+}
+
+a {
+	color: #3b5998;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+
+/* Colors */
+/* Classes are named with a self explanatory name */
+
+.officialBlue {
+	background-color: #3b5998;
+}
+
+.secondaryBlue {
+	background-color: #627AAD;
+}
+
+.offWhite {
+	background-color: #f2f2f2;
+}
+
+.liteGrey {
+	background-color: #e2e2e2;
+}
+
+.darkText {
+	color: #333333;
+}
+
+.midText {
+	color: #808080;
+}
+
+.liteText {
+	color: #999999;
+}
+
+/* Input elements */
+/* Classes are named with a self explanatory name */
+
+.statusUpdate {
+	border: 1px solid #bdc7d8;
+	padding: 5px;
+}
+
+.signUp {
+	border: 1px solid #96a6c5;
+	padding: 6px;
+}
+
+.comment {
+	border: 1px solid #b4bbcd;
+	padding: 3px;
+}
+
+.search {
+	border: 1px solid #899bc1;
+	padding: 4px;
+}
+
+.login {
+	border: 1px solid #1d2a5b;
+	padding: 3px;
+}
+.
